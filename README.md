@@ -44,3 +44,14 @@ Sua proposta foi retratada pela Rocketseat, e eu como um bom dev aceitei. Minha 
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## 💻 Como utilizar?
+
+Para usar este projeto você necessitará executá-lo da seguinte forma:
+- Entre na raíz do diretório do seu projeto;
+- Execute utilizando o comando: `npm start`;
+
+Para se comunicar com o banco de dados e servidor, você também precisará clonar no seguinte repositório.
+- [Repositório-API](https://github.com/WxBarbosa/BeTheHeroAPI) Clone o repositório;
+- Execute utilizando o comando `npm start`;
+- Pronto tudo está pronto para ser utilizado!;
